@@ -6,6 +6,17 @@
 /**
  *
  * @author melin
+ * 
+ * 
+ * Implemente o sistema representado pelo diagrama abaixo. 
+Obrigatório implementar uma classe de testes para todos os métodos das classes Staff e 
+Student.
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
  */
 public class Person {
     private String name;
